@@ -1,0 +1,41 @@
+.a01{
+	margin-left: 40px;
+	border-width: 30px;
+	border-radius: 30px;
+	width: 500px;
+}
+
+.a02{
+
+	margin-left: 400px;
+	margin-top: 15px;
+}
+
+.corpo{
+
+	margin-top: 50px;
+}
+
+.b01{
+	margin-top: 50px;
+	width: 420px;
+}
+
+.img01{
+	
+	float:left
+}
+
+.img02{
+
+	float:right;
+	margin-right: 1000px;
+}
+
+.formulario{
+	width: 300px;
+	margin-left: 5px;
+	border-color: #1E90FF;
+	border-style: solid;
+   border-width: 2px;
+}
